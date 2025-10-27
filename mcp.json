@@ -22,6 +22,16 @@
       "env": {},
       "disabled": false,
       "alwaysAllow": []
+    },
+    "awesome-mcp-servers": {
+      "command": "python",
+      "args": [
+        "-m",
+        "awesome-mcp-servers"
+      ],
+      "env": {},
+      "disabled": false,
+      "alwaysAllow": []
     }
   }
 }
