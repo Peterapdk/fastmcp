@@ -8,6 +8,20 @@
       "env": {},
       "disabled": false,
       "alwaysAllow": []
+    },
+    "fastmcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "https://github.com/jlowin/fastmcp"
+      ],
+      "env": {},
+      "disabled": false,
+      "alwaysAllow": []
     }
   }
 }
