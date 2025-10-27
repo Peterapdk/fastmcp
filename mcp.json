@@ -6,7 +6,7 @@
         "node_modules/context7/dist/index.js"
       ],
       "env": {},
-      "disabled": false,
+      "disabled": true,
       "alwaysAllow": []
     }
   }
